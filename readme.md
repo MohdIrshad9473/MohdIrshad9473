@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-This is Danish 
+This is Irshad 
 
 A Software Developer by Profession.
 
@@ -21,23 +21,12 @@ A Software Developer by Profession.
 
 ## **My GitHub Stats**
 
-<img align="left" alt="RohanDas28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MohsIrshad9473&show_icons=true&hide_border=true" />
+<img align="left" alt="RohanDas28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MohdIrshad9473&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdIrshad9473&layout=compact)](https://github.com/MohdIrshad9473/github-readme-stats)
 
 
 
-<!--
-**mailtodanish/mailtodanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

@@ -7,7 +7,7 @@ A Software Developer by Profession.
 
 📫 How to reach me: irshad9473@gmail.com
 
-🔭 I’m currently working on Flask applictaion
+🔭 I’m currently working on Flask Rest API and React
 
 
 

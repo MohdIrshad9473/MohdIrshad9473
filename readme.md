@@ -17,6 +17,7 @@ A Software Developer by Profession.
  
 <img alt="Python" width="30px" src="https://simpleicons.org/icons/python.svg"/>  
 <img alt="Flask" width="30px" src="https://simpleicons.org/icons/flask.svg"/>  
+<img alt="Flask" width="30px" src="https://simpleicons.org/icons/react.svg"/>  
 
 
 ## **My GitHub Stats**
